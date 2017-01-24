@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/Analytics.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/EndpointDAOImpl.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/GeoSpatial.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/Integration.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/ResourceDirectoryService.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/Services.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/AssetAppRuntime.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/AssetCommon.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/AssetDAO.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/AssetManagement.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/AssetModels.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/AssetSearch.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/AuthorizationService.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/avro-1.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/CredentialService.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/elasticsearch-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/EndpointDAO.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/EndpointPolicyAPI.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/hppc-0.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/jackson-annotations-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/jackson-core-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/jackson-databind-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/joda-time-2.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/json-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/jsr166e-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/kvclient-4.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/lucene-analyzers-common-5.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/lucene-core-5.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/lucene-queries-5.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/lucene-suggest-5.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/ManagementAPI.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/MessagePersistenceService.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/MessagingAPI.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/Model.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/netty-3.10.5.Final.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/oracle.cloud.storage.api-13.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/oracle.dbtools.icap-20150514.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/ServerCommon.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/Service.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-Coherence/lib/t-digest-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/Analytics.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/AuthorizationService.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/EndpointDAOImpl.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/GeoSpatial.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/Integration.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/OAuthTokenCache.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/ResourceDirectoryService.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/Services.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/AssetAppRuntime.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/AssetCommon.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/AssetDAO.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/AssetManagement.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/AssetModels.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/AssetSearch.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/AuthenticationFilter.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/AuthorizationService.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/avro-1.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/BatchRegistrationService.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/CompressionFilter.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/CORSFilter.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/CredentialService.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/elasticsearch-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/EndpointDAO.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/EndpointPolicyAPI.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/EndpointRegistry.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/EnrollmentCommon.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/hppc-0.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/jackson-annotations-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/jackson-core-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/jackson-databind-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/joda-time-2.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/json-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/json-20131018.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/jsr166e-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/kvclient-4.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/lucene-analyzers-common-5.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/lucene-core-5.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/lucene-queries-5.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/lucene-suggest-5.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/ManagementAPI.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/MessagePersistenceService.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/MessagingAPI.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/Model.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/netty-3.10.5.Final.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/OAuthTokenCache.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/oracle.cloud.storage.api-13.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/oracle.dbtools.icap-20150514.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/org.apache.oltu.commons.encodedtoken-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/org.apache.oltu.commons.json-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/org.apache.oltu.oauth2.authzserver-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/org.apache.oltu.oauth2.common-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/org.apache.oltu.oauth2.jwt-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/org.apache.oltu.oauth2.resourceserver-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/ServerCommon.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/Service.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/Server-All/lib/t-digest-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/application.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/bootstrap.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/common.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/config.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/dao.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/deploy.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/metadata-management.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/antlr-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/aopalliance-repackaged-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/asm-all-repackaged-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/avro-1.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/bacs-application-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/bacs-bootstrap-shared-plugin-datalink-analyzedmessages-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/bacs-bootstrap-shared-plugin-datalink-dbaas-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/bacs-bootstrap-shared-plugin-datalink-devicemessages-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/bacs-bootstrap-shared-plugin-datalink-hadoop-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/bacs-bootstrap-shared-plugin-datalink-hbase-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/bacs-bootstrap-shared-plugin-datalink-hdfs-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/bacs-bootstrap-shared-plugin-datalink-messages-common-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/bacs-bootstrap-shared-plugin-datalink-messages-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/bacs-bootstrap-shared-plugin-datalink-nosql-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/bacs-bootstrap-shared-plugin-datalink-oscs-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/bacs-bootstrap-shared-plugin-datalink-sql-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/bacs-common-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/bacs-common-logging-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/bacs-runtime-utils-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/base.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/bean-validator-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/class-model-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/commons-compress-1.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/config-types-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/credentialService.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/freemarker-2.3.19.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/hk2-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/hk2-api-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/hk2-config-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/hk2-core-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/hk2-locator-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/hk2-metadata-generator-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/hk2-runlevel-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/hk2-utils-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/httpclient-4.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/httpcore-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/iot-analytics-model.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/javaee-api-7.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/JavaEWAH-0.7.9.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/javax.inject-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/javax.mail-1.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/jline-0.9.94.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/jopt-simple-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/jps-api-12.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/jsch-0.1.52.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/kafka_2.10-0.9.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/kafka-clients-0.9.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/kvclient-4.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/lz4-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/maven-model-3.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/netty-3.7.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/oracle.cloud.storage.api-13.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/org.eclipse.jgit.archive-4.0.1.201506240215-r.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/org.eclipse.jgit-4.0.1.201506240215-r.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/org.osgi.core-4.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/paranamer-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/plexus-utils-3.0.22.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/plugin-qps.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/scala-library-2.10.5.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/slf4j-log4j12-1.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/snappy-java-1.1.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/tiger-types-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/xz-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/zkclient-0.7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-server/lib/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/application.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/bootstrap.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/common.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/config.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/dao.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/deploy.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/metadata-management.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/server-dev.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/antlr-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/aopalliance-repackaged-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/asm-all-repackaged-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/avro-1.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/bacs-application-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/bacs-bootstrap-shared-plugin-datalink-analyzedmessages-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/bacs-bootstrap-shared-plugin-datalink-dbaas-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/bacs-bootstrap-shared-plugin-datalink-devicemessages-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/bacs-bootstrap-shared-plugin-datalink-hadoop-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/bacs-bootstrap-shared-plugin-datalink-hbase-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/bacs-bootstrap-shared-plugin-datalink-hdfs-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/bacs-bootstrap-shared-plugin-datalink-messages-common-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/bacs-bootstrap-shared-plugin-datalink-messages-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/bacs-bootstrap-shared-plugin-datalink-nosql-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/bacs-bootstrap-shared-plugin-datalink-oscs-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/bacs-bootstrap-shared-plugin-datalink-sql-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/bacs-common-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/bacs-common-logging-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/bacs-runtime-utils-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/base.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/bean-validator-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/class-model-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/commons-compress-1.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/config-types-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/credentialService.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/freemarker-2.3.19.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/hk2-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/hk2-api-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/hk2-config-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/hk2-core-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/hk2-locator-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/hk2-metadata-generator-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/hk2-runlevel-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/hk2-utils-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/httpclient-4.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/httpcore-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/iot-analytics-model.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/javaee-api-7.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/JavaEWAH-0.7.9.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/javax.inject-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/javax.mail-1.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/jline-0.9.94.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/jopt-simple-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/jps-api-12.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/jsch-0.1.52.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/kafka_2.10-0.9.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/kafka-clients-0.9.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/kvclient-4.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/lz4-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/maven-model-3.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/netty-3.7.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/oracle.cloud.storage.api-13.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/org.eclipse.jgit.archive-4.0.1.201506240215-r.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/org.eclipse.jgit-4.0.1.201506240215-r.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/org.osgi.core-4.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/paranamer-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/plexus-utils-3.0.22.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/plugin-qps.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/scala-library-2.10.5.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/slf4j-log4j12-1.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/snappy-java-1.1.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/tiger-types-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/xz-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/zkclient-0.7.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/iot/server/iot-analytics-dev-server/lib/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/iotcs_docker/artifacts/ojdbc-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/aether-api-1.0.2.v20150114.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/aether-api-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/aether-impl-1.0.2.v20150114.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/aether-impl-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/aether-spi-1.0.2.v20150114.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/aether-spi-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/aether-util-1.0.2.v20150114.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/aether-util-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/akka-actor_2.10-2.3.11.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/akka-remote_2.10-2.3.11.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/akka-slf4j_2.10-2.3.11.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/annotations-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/ant-1.6.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/ant-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/ant-1.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/ant-1.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/ant-launcher-1.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/ant-launcher-1.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/aopalliance-repackaged-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/apacheds-i18n-2.0.0-M15.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/apacheds-kerberos-codec-2.0.0-M15.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/api-asn1-api-1.0.0-M20.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/api-asn1-ber-1.0.0-M20.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/api-i18n-1.0.0-M20.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/api-ldap-model-1.0.0-M20.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/api-util-1.0.0-M20.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/arpack_combined_all-0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/asm-3.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/asm-4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/asm-all-repackaged-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/avalon-framework-4.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/avro-1.7.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/avro-1.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/avro-1.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/avro-1.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/avro-compiler-1.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/avro-ipc-1.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/avro-ipc-1.7.7-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/avro-ipc-1.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/avro-mapred-1.7.7-hadoop2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/avro-mapred-1.8.0-hadoop2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/backport-util-concurrent-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-api-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-application-bootstrap-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-application-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-application-metadata-validation-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-application-runtime-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-application-validation-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-common-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-analyzedmessages-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-analyzedmessages-runtime-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-dbaas-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-dbaas-runtime-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-devicemessages-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-devicemessages-runtime-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-hadoop-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-hadoop-runtime-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-hbase-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-hbase-runtime-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-hdfs-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-hdfs-runtime-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-messages-common-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-messages-common-runtime-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-messages-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-messages-runtime-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-nosql-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-nosql-runtime-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-oscs-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-oscs-runtime-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-runtime-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-sql-metadata-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-bootstrap-shared-plugin-datalink-sql-runtime-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-common-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-common-logging-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-runtime-security-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-runtime-utils-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-validation-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-worksheets-bootstrap-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bacs-worksheets-runtime-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bar-maven-plugin-16.3.3.0.0-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/bean-validator-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/breeze_2.10-0.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/breeze-macros_2.10-0.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/cal10n-api-0.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/cdi-api-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/cglib-2.2.1-v20090111.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/cglib-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/chill_2.10-0.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/chill-java-0.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/class-model-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/classworlds-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/classworlds-1.1-alpha-2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-compiler-2.7.8.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-compress-1.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-compress-1.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-compress-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-compress-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-configuration-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-daemon-1.0.13.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-httpclient-2.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-httpclient-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-lang3-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-logging-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-math-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-math-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-math3-3.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-math3-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-math3-3.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-net-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/commons-net-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/compress-lzf-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/config-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/config-types-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/core-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/curator-client-2.1.0-incubating.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/curator-client-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/curator-client-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/curator-framework-2.1.0-incubating.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/curator-framework-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/curator-framework-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/curator-recipes-2.1.0-incubating.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/curator-recipes-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/curator-recipes-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/disruptor-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/doxia-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/doxia-sink-api-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/eclipselink-2.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/ehcache-core-2.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/FastInfoset-1.2.12.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/fastutil-6.5.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/file-management-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/findbugs-annotations-1.3.9-1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/glusterfs-hadoop-2.3.13.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/gmbal-3.0.0-b023.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/gmbal-api-only-3.0.0-b023.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/google-collections-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/grizzly-framework-2.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/grizzly-http-2.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/grizzly-http-server-2.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/grizzly-http-servlet-2.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/grizzly-rcm-2.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/guava-11.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/guava-12.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/guava-13.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/guava-14.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/guava-bootstrap-11.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/guava-r06.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/guice-4.0-no_aop.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/guice-servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-annotations-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-annotations-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-annotations-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-annotations-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-auth-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-auth-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-auth-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-auth-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-client-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-client-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-client-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-client-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-common-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-common-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-common-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-common-2.7.1-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-core-0.20.205.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-core-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-core-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-hdfs-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-hdfs-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-mapreduce-client-app-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-mapreduce-client-app-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-mapreduce-client-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-mapreduce-client-common-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-mapreduce-client-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-mapreduce-client-core-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-mapreduce-client-jobclient-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-mapreduce-client-jobclient-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-mapreduce-client-shuffle-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-mapreduce-client-shuffle-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-openstack-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-yarn-api-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-yarn-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-yarn-api-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-yarn-client-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-yarn-client-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-yarn-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-yarn-common-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-yarn-common-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-yarn-server-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-yarn-server-common-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-yarn-server-common-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-yarn-server-nodemanager-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-yarn-server-nodemanager-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-yarn-server-nodemanager-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-yarn-server-web-proxy-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hadoop-yarn-server-web-proxy-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hawtjni-runtime-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hbase-annotations-1.0.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hbase-client-1.0.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hbase-common-1.0.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hbase-common-1.0.1.1-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hbase-hadoop2-compat-1.0.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hbase-hadoop-compat-1.0.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hbase-prefix-tree-1.0.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hbase-protocol-1.0.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hbase-server-1.0.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hibernate-core-3.5.1-Final.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hk2-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hk2-api-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hk2-config-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hk2-core-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hk2-locator-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hk2-metadata-generator-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hk2-runlevel-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hk2-utils-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/htrace-core-3.1.0-incubating.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/httpclient-4.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/httpcore-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/httpcore-4.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/identitydirectory-12.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/identitystore-12.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/istack-commons-runtime-2.16.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/ivy-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jacc-spi-12.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackrabbit-jcr-commons-1.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackrabbit-webdav-1.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-annotations-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-annotations-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-annotations-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-annotations-2.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-core-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-core-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-core-2.4.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-core-2.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-core-2.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-core-asl-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-core-asl-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-core-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-core-asl-1.9.11.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-databind-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-databind-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-databind-2.4.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-databind-2.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-databind-2.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-jaxrs-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-jaxrs-1.8.8.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-jaxrs-1.9.13.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-jaxrs-base-2.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-jaxrs-json-provider-2.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-mapper-asl-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-mapper-asl-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-mapper-asl-1.9.11.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-module-jaxb-annotations-2.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-module-scala_2.10-2.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-xc-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jackson-xc-1.9.13.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jamon-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/janino-2.7.8.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jasper-compiler-5.5.12.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jasper-compiler-5.5.23.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jasper-runtime-5.5.12.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jasper-runtime-5.5.23.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javaee-api-5.0-2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javaee-api-7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javassist-3.12.1.GA.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javassist-3.14.0-GA.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javax.activation-1.1.0.v201105071233.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javax.annotation-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javax.ejb-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javax.inject-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javax.json-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javax.mail.glassfish-1.4.1.v201005082020.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javax.mail-1.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javax.persistence-2.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javax.servlet-3.0.0.v201112011016.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javax.servlet-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javax.transaction-1.1.1.v201105210645.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/javax.transaction-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/java-xmlbuilder-0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jaxb-api-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jaxb-api-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jaxb-api-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jaxb-core-2.2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jaxb-impl-2.2.3-1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jaxb-impl-2.2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jboss-common-core-2.0.5.GA.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jboss-common-logging-spi-2.0.4.GA.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jboss-interceptor-api-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jboss-jacc-api_JDK4-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jcl-over-slf4j-1.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jcl-over-slf4j-1.7.10.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jcodings-1.0.8.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jcommon-1.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jcr-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jdiff-1.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jersey-client-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jersey-core-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jersey-core-1.19.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jersey-grizzly2-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jersey-guice-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jersey-json-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jersey-server-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jersey-server-1.19.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jersey-servlet-1.19.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jersey-test-framework-core-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jersey-test-framework-grizzly2-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jets3t-0.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jets3t-0.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jets3t-0.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jets3t-0.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-client-7.6.0.v20120127.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-continuation-7.6.0.v20120127.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-continuation-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-http-7.6.0.v20120127.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-http-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-io-7.6.0.v20120127.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-io-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-jndi-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-plus-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-security-7.6.0.v20120127.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-security-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-server-7.6.0.v20120127.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-server-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-servlet-7.6.0.v20120127.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-servlet-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-servlets-7.6.0.v20120127.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-sslengine-6.1.26.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-util-6.1.14.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-util-7.6.0.v20120127.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-util-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-webapp-7.6.0.v20120127.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-webapp-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-websocket-7.6.0.v20120127.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-xml-7.6.0.v20120127.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jetty-xml-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jfreechart-1.0.8a.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jline-0.9.94.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jms-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/joni-2.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jopt-simple-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jps-api-12.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jps-az-api-12.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jps-az-common-12.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jps-az-management-12.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jps-az-rt-12.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jps-common-12.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jps-ee-12.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jps-internal-12.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jps-platform-12.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jps-se-12.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jps-unsupported-api-12.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jsch-0.1.38.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jsch-0.1.42.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/json4s-ast_2.10-3.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/json4s-core_2.10-3.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/json4s-jackson_2.10-3.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jsp-2.1-6.1.14.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jsp-api-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jsp-api-2.0-20040521.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jsp-api-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jsp-api-2.1-6.1.14.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jsr173_api-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jsr305-2.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jsr305-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jtransforms-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jts-1.11.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/jul-to-slf4j-1.7.10.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/junit-3.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/kafka_2.10-0.8.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/kafka-clients-0.8.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/kfs-0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/kryo-2.21.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/kundera-core-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/kundera-oracle-nosql-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/kvclient-3.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/kvclient-4.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/kvstore-3.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/ldapjclnt11-12.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/leveldb-api-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/leveldbjni-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/leveldbjni-all-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/leveldbjni-linux32-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/leveldbjni-linux64-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/leveldbjni-osx-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/leveldbjni-win32-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/leveldbjni-win64-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/libthrift-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/logkit-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/logkit-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/lombok-1.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/lz4-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/lz4-1.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/management-api-3.0.0-b012.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-aether-provider-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-aether-provider-3.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-archiver-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-artifact-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-artifact-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-artifact-3.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-artifact-manager-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-builder-support-3.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-clean-plugin-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-compat-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-compat-3.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-compiler-plugin-3.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-core-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-core-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-core-3.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-error-diagnostics-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-filtering-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-install-plugin-2.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-model-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-model-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-model-3.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-model-builder-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-model-builder-3.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-monitor-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-plugin-annotations-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-plugin-annotations-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-plugin-api-2.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-plugin-api-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-plugin-api-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-plugin-api-3.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-plugin-descriptor-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-plugin-parameter-documenter-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-plugin-registry-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-profile-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-project-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-reporting-api-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-repository-metadata-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-repository-metadata-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-repository-metadata-3.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-resources-plugin-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-settings-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-settings-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-settings-3.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-settings-builder-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-settings-builder-3.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-shared-incremental-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-shared-io-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-shared-utils-0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-shared-utils-0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-shared-utils-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/maven-toolchain-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/mesos-0.21.1-shaded-protobuf.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/metrics-core-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/metrics-core-3.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/metrics-graphite-3.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/metrics-json-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/metrics-json-3.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/metrics-jvm-3.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/mina-core-2.0.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/minlog-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/mockito-all-1.8.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/nekohtml-1.9.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/netty-3.2.2.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/netty-3.4.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/netty-3.5.13.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/netty-3.6.2.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/netty-3.7.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/netty-3.8.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/netty-all-4.0.23.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/netty-all-4.0.28.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/netty-all-4.0.29.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/objenesis-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/ojdbc-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/oraclepki-12.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/org.eclipse.persistence.antlr-2.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/org.eclipse.persistence.asm-2.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/org.eclipse.persistence.asm-2.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/org.eclipse.persistence.core-2.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/org.eclipse.persistence.core-2.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/org.eclipse.persistence.jpa.jpql-2.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/org.eclipse.persistence.moxy-2.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/org.eclipse.persistence.moxy-2.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/org.eclipse.sisu.inject-0.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/org.eclipse.sisu.plexus-0.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/org.osgi.core-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/org.osgi.enterprise-4.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/osdt_cert-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/osdt_core-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/osdt_xmlsec-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/osgi_R4_core-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/paranamer-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/paranamer-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/paranamer-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/parquet-column-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/parquet-common-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/parquet-encoding-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/parquet-format-2.3.0-incubating.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/parquet-generator-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/parquet-hadoop-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/parquet-jackson-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-archiver-2.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-archiver-3.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-build-api-0.0.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-cipher-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-classworlds-1.2-alpha-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-classworlds-1.2-alpha-9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-classworlds-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-classworlds-2.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-classworlds-2.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-compiler-api-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-compiler-javac-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-compiler-manager-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-component-annotations-1.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-component-annotations-1.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-component-annotations-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-component-api-1.0-alpha-16.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-container-default-1.0-alpha-7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-container-default-1.0-alpha-9.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-container-default-1.0-alpha-9-stable-1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-container-default-1.0-alpha-30.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-container-default-1.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-interactivity-api-1.0-alpha-4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-interactivity-api-1.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-interpolation-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-interpolation-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-interpolation-1.11.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-interpolation-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-interpolation-1.21.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-io-2.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-io-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-sec-dispatcher-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-utils-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-utils-1.4.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-utils-1.4.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-utils-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-utils-1.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-utils-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-utils-1.5.15.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-utils-2.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-utils-2.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-utils-3.0.15.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-utils-3.0.17.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-utils-3.0.20.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-utils-3.0.22.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-utils-3.0.24.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/plexus-utils-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/pmml-agent-1.1.15.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/pmml-model-1.1.15.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/pmml-schema-1.1.15.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/py4j-0.8.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/pyrolite-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/quasiquotes_2.10-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/quasiquotes_2.10-2.0.0-M8.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/reflectasm-1.07-shaded.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/RoaringBitmap-0.4.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/scala-compiler-2.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/scala-library-2.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/scala-library-2.10.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/scala-library-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/scala-library-2.10.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/scalap-2.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/scala-reflect-2.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/scala-reflect-2.10.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/scala-reflect-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/scala-reflect-2.10.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/servlet-api-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/servlet-api-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/servletapi-2.4-20040521.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/servlet-api-2.5-6.1.14.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/servlet-api-2.5-20081211.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/servlet-api-3.0.20100224.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/sisu-guice-2.1.7-noaop.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/sisu-inject-bean-1.4.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/sisu-inject-plexus-1.4.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-api-1.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-api-1.5.10.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-api-1.7.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-ext-1.5.10.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-jdk14-1.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-jdk14-1.5.10.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-jdk14-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-log4j12-1.7.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-log4j12-1.7.10.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-nop-1.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/slf4j-nop-1.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/snappy-0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/snappy-java-1.0.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/snappy-java-1.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/snappy-java-1.1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/snappy-java-1.1.1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/snappy-java-1.1.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/spark-catalyst_2.10-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/spark-core_2.10-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/spark-graphx_2.10-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/spark-launcher_2.10-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/spark-mllib_2.10-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/spark-network-common_2.10-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/spark-network-shuffle_2.10-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/spark-sql_2.10-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/spark-streaming_2.10-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/spark-streaming-kafka_2.10-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/spark-unsafe_2.10-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/spire_2.10-0.7.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/spire-macros_2.10-0.7.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/stream-2.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/tachyon-client-0.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/tachyon-common-0.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/tachyon-underfs-glusterfs-0.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/tachyon-underfs-hdfs-0.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/tachyon-underfs-local-0.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/tachyon-underfs-s3-0.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/tiger-types-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/uncommons-maths-1.2.2a.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/unused-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/wagon-file-1.0-beta-6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/wagon-http-1.0-beta-6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/wagon-http-lightweight-1.0-beta-6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/wagon-http-shared-1.0-beta-6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/wagon-provider-api-1.0-beta-6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/wagon-provider-api-2.10.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/wagon-ssh-1.0-beta-6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/wagon-ssh-common-1.0-beta-6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/wagon-ssh-external-1.0-beta-6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/wagon-webdav-jackrabbit-1.0-beta-6.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/webdavlib-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/weld-build-config-1.1.4.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/weld-core-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/weld-core-1.1.4.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/weld-osgi-bundle-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/weld-osgi-bundle-1.1.4.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/werken-xpath-0.9.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/xalan-2.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/xbean-reflect-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/xercesImpl-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/xercesImpl-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/xercesImpl-2.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/xercesMinimal-1.9.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/xml-apis-1.3.03.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/xml-apis-2.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/xml-apis-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/xmlenc-0.52.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/xmlpull-1.1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/xpp3_min-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/xstream-1.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/xz-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/xz-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/zkclient-0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/zookeeper-3.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/zookeeper-3.4.5.jar"/>
+	<classpathentry kind="lib" path="D:/Oraclejar/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
